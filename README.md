@@ -13,7 +13,7 @@ NftMarketplace at 0xB8C48Ee38e7eDd6EEBa8581383b77E66c08ef58c
 BasicNft at 0x25B2F2F822e748F7Cd483273f7750a132c332C2F
 ```
 
-## Subgraph (Goerli)
+## Subgraph (TheGraph)
 
 ```
 https://testnet.thegraph.com/explorer/subgraph?id=66LyoG9QbXg16NPHVS4MEQBPq8aGZLJix9UhNLPDzkNR
