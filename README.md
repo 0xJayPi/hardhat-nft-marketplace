@@ -4,6 +4,27 @@ This project is part of the Hardhat FreeCodeCamp video. Thanks [@PatrickAlphaC](
 
 Checkout the full blockchain course video [here](https://www.youtube.com/watch?v=gyMwXuJrbJQ). Plus the full repo [here](https://github.com/smartcontractkit/full-blockchain-solidity-course-js).
 
+# Sample on Goerli
+
+## Contracts (Goerli)
+
+```
+NftMarketplace at 0xB8C48Ee38e7eDd6EEBa8581383b77E66c08ef58c
+BasicNft at 0x25B2F2F822e748F7Cd483273f7750a132c332C2F
+```
+
+## Subgraph (Goerli)
+
+```
+https://testnet.thegraph.com/explorer/subgraph?id=66LyoG9QbXg16NPHVS4MEQBPq8aGZLJix9UhNLPDzkNR
+```
+
+## Hosting (Fleek)
+
+```
+https://empty-rice-2958.on.fleek.co/
+```
+
 # Getting Started
 
 ## Requirements
